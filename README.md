@@ -18,5 +18,5 @@
 - **Кнопки**: Кнопки для входа и регистрации со стилизованными рамками и закругленными углами.
 
 ## Скриншоты
-
-### Веб версия:
+![photo_2024-12-26_22-20-18](https://github.com/user-attachments/assets/2892bc83-68a6-4dad-b583-ef3792e654a3)
+![photo_2024-12-26_22-20-11](https://github.com/user-attachments/assets/ecf7258d-fb24-4b74-8c52-d3e2c9432c01)
